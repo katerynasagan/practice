@@ -1,4 +1,4 @@
-// replaaceArray takes an array and returns new array where each element is
+//takes an array and returns new array where each element is
 //multiplyed by 2 if even
 //replaced with ? if ele is 0
 //if ele is odd >>> add 10 to it;
@@ -24,7 +24,7 @@ function replaceArray(array) {
 
 
 
-function tryThis(array) {
+function replaceArray(array) {
   var newArray = [];
   idx = 0;
 
